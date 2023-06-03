@@ -1,3 +1,5 @@
+import model, view
+
 def start():
     pass
     view.welcome()
